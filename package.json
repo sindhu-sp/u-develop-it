@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/sindhu-sp/u-develop-it/issues"
   },
-  "homepage": "https://github.com/sindhu-sp/u-develop-it#readme"
+  "homepage": "https://github.com/sindhu-sp/u-develop-it#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
 }
