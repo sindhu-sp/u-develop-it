@@ -1,5 +1,5 @@
-const db = require('./db/connection');
 const express = require('express');
+const db = require('./db/connection');
 
 // Add near the top of the file
 const apiRoutes = require('./routes/apiRoutes');
